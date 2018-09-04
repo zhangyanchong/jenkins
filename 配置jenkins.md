@@ -7,10 +7,10 @@
 2 这里安装两个插件de >Git pluginde> 和de >Publish Over SSH   和 svn puluginde>    
 ![](https://github.com/zhangyanchong/jenkins/blob/master/img/jenkins_2.png)
  de >de>    
-3 配置 de >Publish Over SSHde>    
-![](https://github.com/zhangyanchong/jenkins/blob/master/img/jenkins_3.png)
+3 配置 de >Publish Over SSHde>     
+![](https://github.com/zhangyanchong/jenkins/blob/master/img/jenkins_3.png)  
 配置Jenkins2  
- de >de>  
+ de >de>    
 ![](https://github.com/zhangyanchong/jenkins/blob/master/img/jenkins_4.png)  
 每一项都必须填写  Remote Directory  也必须填写 否则会出问题  
 
